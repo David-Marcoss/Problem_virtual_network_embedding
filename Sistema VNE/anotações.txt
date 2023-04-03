@@ -1,0 +1,10 @@
+1- mudançãs feitas no calculo de fitness no Trabalho V1
+
+2- com a mudança é nescessario alterar o retorno da função algoritimo genetico
+
+3- sobre o algoritimo genetico as gerações nao estao evoluido da maneira esperada analisar essa questao
+   verificar a saida com o calculo do fitness novo com o que estava sendo usado
+
+4- ficou pendente no sistema tratar requisições invalidas, implementar
+   função de adção de recursos a rede fisica e parelização do algoritimo
+   para processar varias requisições ao mesmo tempo.
